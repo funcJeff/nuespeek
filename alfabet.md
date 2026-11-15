@@ -10,17 +10,17 @@ oenlee loer kaes.
 
 | amerikan | amerikan exampl | i-p-a | nue speek | nue speek exampl |
 | --- | --- | --- | --- | --- |
-| a | cat, bat | æ | a | kat, bat |
-| e | bet, set | ɛ | e | bet, set |
-| i | bit, hit | ɪ | i | bit, hit |
-| o | cot, not | ɒ | o | kot, not |
-| u | but, gut | ʌ | u | but, gut |
-| a + silent e | late, cape | eɪ | ae | laet, caep |
-| ea, ee, e + silent e | beat, feet, mete | iː | ee | beet, feet, meet |
-| i + silent e | bite, kite | aɪ | ie | biet, kiet |
-| o + silent e | note, wrote | oʊ | oe | noet, roet |
-| u + silent e | jute, flute | uː,u | ue | juet, fluet |
-| oo | foot, book | ʊ | oo | foot, book |
+| a | c**a**t, b**a**t | æ | a | k**a**t, b**a**t |
+| e | b**e**t, s**e**t | ɛ | e | b**e**t, s**e**t |
+| i | b**i**t, h**i**t | ɪ | i | b**i**t, h**i**t |
+| o | c**o**t, n**o**t | ɒ | o | k**o**t, n**o**t |
+| u | b**u**t, g**u**t | ʌ | u | b**u**t, g**u**t |
+| a + silent e | late, cape | eɪ | ae | l**ae**t, c**ae**p |
+| ea, ee, e + silent e | b**ea**t, f**ee**t, m**e**t**e** | iː | ee | b**ee**t, f**ee**t, m**ee**t |
+| i + silent e | bite, kite | aɪ | ie | b**ie**t, k**ie**t |
+| o + silent e | note, wrote | oʊ | oe | n**oe**t, r**oe**t |
+| u + silent e | jute, flute | uː,u | ue | j**ue**t, f**lue**t |
+| oo | f**oo**t, b**oo**k | ʊ | oo | f**oo**t, b**oo**k |
 | a, ough | **a**ll, b**ough**t | ɔ | aw | **aw**l, b**aw**t | 
 | a, ah, o | f**a**ther, b**o**ther, w**a**sp | ɑː | aa | f**aa**thr, b**aa**thr, w**aa**sp |
 | er, or | winn**er**, doct**or** | ər | r | win**r**, dokt**r** | 
