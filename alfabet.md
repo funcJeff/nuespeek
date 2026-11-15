@@ -21,10 +21,10 @@ oenlee loer kaes.
 | o + silent e | note, wrote | oʊ | oe | noet, roet |
 | u + silent e | jute, flute | uː,u | ue | juet, fluet |
 | oo | foot, book | ʊ | oo | foot, book |
-| a, ough | *a*ll, b*ough*t | ɔ | aw | awl, bawt | 
-| a, ah, o | father, bother, wasp | ɑː | aa | faathr, baathr, waasp |
-| er, or | winn*er*, doct*or* | ər | r | win*r*, dokt*r* | 
-| oy, oi | b*oy*s, n*oi*se, ch*oi*ce | ɔɪ | oy | b*oy*, n*oy*z, ht*oy*s |
+| a, ough | **a**ll, b**ough**t | ɔ | aw | **aw**l, b**aw**t | 
+| a, ah, o | f**a**ther, b**o**ther, w**a**sp | ɑː | aa | f**aa**thr, b**aa**thr, w**aa**sp |
+| er, or | winn**er**, doct**or** | ər | r | win**r**, dokt**r** | 
+| oy, oi | b**oy**s, n**oi**se, ch**oi**ce | ɔɪ | oy | b**oy**, n**oy**z, ht**oy**s |
 
 ## konsonant
 
