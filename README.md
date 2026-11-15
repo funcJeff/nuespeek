@@ -8,4 +8,4 @@ how dif from amerikan inglish.
 
 * noe plurl suficks
 * noe verb konjugaet
-* noe suficks foer adjektiev, adverb, nown.
+* noe suficks foer adjektiev, adverb, nown
