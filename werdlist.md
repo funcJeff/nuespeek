@@ -4,6 +4,7 @@
 
 | nue speek | amerikan |
 | --- | --- | 
+| aad | add |
 | abowt | about |
 | abuv | above |
 | akros | across |
