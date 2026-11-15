@@ -15,7 +15,7 @@ oenlee loer kaes.
 | i | b**i**t, h**i**t | ɪ | i | b**i**t, h**i**t |
 | o | c**o**t, n**o**t | ɒ | o | k**o**t, n**o**t |
 | u | b**u**t, g**u**t | ʌ | u | b**u**t, g**u**t |
-| a + silent e | late, cape | eɪ | ae | l**ae**t, c**ae**p |
+| a + silent e | l**a**t**e**, c**a**p**e** | eɪ | ae | l**ae**t, c**ae**p |
 | ea, ee, e + silent e | b**ea**t, f**ee**t, m**e**t**e** | iː | ee | b**ee**t, f**ee**t, m**ee**t |
 | i + silent e | bite, kite | aɪ | ie | b**ie**t, k**ie**t |
 | o + silent e | note, wrote | oʊ | oe | n**oe**t, r**oe**t |
