@@ -13,7 +13,7 @@
 
 | nue speek | amerikan |
 | --- | --- | 
-| baebee | baby |
+| baebee | baby, babyish |
 | bak | back |
 | bad | bad |
 
@@ -22,7 +22,7 @@
 | nue speek | amerikan |
 | --- | --- | 
 | dans | dance |
-| danjerus | dangerous |
+| danjr | danger, dangerous, dangerously |
 
 # k 
 
