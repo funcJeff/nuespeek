@@ -7,5 +7,9 @@ nue lang foer peepl tue speek.
 how dif from amerikan inglish.
 
 * noe plurl suficks
-* noe verb konjugaet
+* verb konjugaet
+  - fyuhtr = wil + verb
+  - past = did + verb
+  - present = verb
+  - noe uthr caes
 * noe suficks foer adjektiev, adverb, nown
