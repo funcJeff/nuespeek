@@ -22,3 +22,10 @@
 | --- | --- | 
 | dans | dance |
 | danjerus | dangerous |
+
+# k 
+
+| nue speek | amerikan |
+| --- | --- | 
+| kat | cat |
+| kornr | corner |
