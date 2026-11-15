@@ -25,6 +25,7 @@ oenlee loer kaes.
 | a, ah, o | f**a**ther, b**o**ther, w**a**sp | ɑː | aa | f**aa**thr, b**aa**thr, w**aa**sp |
 | er, or | winn**er**, doct**or** | ər | r | win**r**, dokt**r** | 
 | oy, oi | b**oy**s, n**oi**se, ch**oi**ce | ɔɪ | oy | b**oy**, n**oy**z, ht**oy**s |
+| ou | m**ou**th | aʊ | ow | m**ow**th, h**ow**s |
 
 ## konsonant
 
