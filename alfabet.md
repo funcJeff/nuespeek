@@ -18,7 +18,7 @@ oenlee loer kaes.
 | a + silent e | late, cape | eɪ | ae | laet, caep |
 | ea, ee, e + silent e | beat, feet, mete | iː | ee | beet, feet, meet |
 | i + silent e | bite, kite | aɪ | ie | biet, kiet |
-| o + silent e | note, wrote | oʊ | oe | noet, wroet |
+| o + silent e | note, wrote | oʊ | oe | noet, roet |
 | u + silent e | jute, flute | uː,u | ue | juet, fluet |
 | oo | foot, book | ʊ | oo | foot, book |
 | a, ough | *a*ll, b*ough*t | ɔ | aw | awl, bawt | 
