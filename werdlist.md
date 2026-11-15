@@ -1,15 +1,24 @@
+# werd list
+
 # a
-1. abowt
-1. abuv
-1. akros
+
+| nue speek | amerikan |
+| --- | --- | 
+| abowt | about |
+| abuv | above |
+| akros | across |
 
 # b
-1. baebee
-1. bak
-1. bad
+
+| nue speek | amerikan |
+| --- | --- | 
+| baebee | baby |
+| bak | back |
+| bad | bad |
 
 # d
 
-1. dans
-1. danjerus
-
+| nue speek | amerikan |
+| --- | --- | 
+| dans | dance |
+| danjerus | dangerous |
