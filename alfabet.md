@@ -30,10 +30,10 @@ oenlee loer kaes.
 
 | amerikan | amerikan exampl | i-p-a | neu speek | nue speek |
 | --- | --- | --- | --- | --- |
-| b | *b*ag, ca*b* | b | b | *b*ag, ka*b* |
-| c | *c*ab, a*c*t | c | k |  *k*ab, a*k*t |
-| d | *d*og, ba*d* | d | d | *d*og, ba*d* |
-| f | lea*f*, *f*ix | f | f | lee*f*, *f*ix |
-| g | *g*olf, ba*g* | ɡ | g | *g*awlf, ba*g* |
-| j, g, ge | *j*oy, a*g*ile, a*ge* | d͡ʒ | j | *j*oy, a*j*iel, ae*j* |
-| ch, t | *ch*at, tea*ch*, na*t*ure | t͡ʃ | ht | *ht*at, tee*ht*, nae*ht*r | 
+| b | *b*ag, ca*b* | b | b | **b**ag, ka**b** |
+| c | *c*ab, a*c*t | c | k |  **k**ab, a**k**t |
+| d | *d*og, ba*d* | d | d | **d**og, ba**d** |
+| f | lea*f*, *f*ix | f | f | lee**f**, **f**ix |
+| g | *g*olf, ba*g* | ɡ | g | **g**awlf, ba**g** |
+| j, g, ge | *j*oy, a*g*ile, a*ge* | d͡ʒ | j | **j**oy, a**j**iel, ae**j** |
+| ch, t | *ch*at, tea*ch*, na*t*ure | t͡ʃ | ht | **ht**at, tee**ht**, nae**ht**r | 
