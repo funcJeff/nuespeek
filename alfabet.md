@@ -1,8 +1,8 @@
 # alfabet
 
-24 leterz:
+23 leterz:
 
-a b d e f g h i j k l m n o p r s t u v w x y z
+a b d e f g h i j k l m n o p r s t u v w y z
 
 oenlee loer kaes.
 
